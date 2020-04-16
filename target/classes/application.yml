@@ -1,0 +1,15 @@
+spring:
+  freemarker:
+    suffix: .html
+#    prefix: classpath:/templates/
+ #   check-template-location: true
+  application:
+    name: websocket 
+ # freemarker:
+#    charset: utf-8
+ #   cache: false
+ #   prefer-file-system-access: false
+            
+server:
+  port: 8960
+
